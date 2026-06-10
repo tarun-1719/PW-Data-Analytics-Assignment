@@ -1,42 +1,55 @@
-# Basics of Sampling and Central Limit Theorem Assignment
+# Statistics Assignments Repository
 
-## Project Overview
-This project contains solutions to assignment questions related to sampling techniques, standard error, sampling distributions, and the Central Limit Theorem (CLT).
+## Overview
 
-## Topics Covered
+This repository contains my Statistics assignments completed as part of my Data Analytics learning journey. The assignments cover fundamental statistical concepts, hypothesis testing, sampling techniques, standard error, sampling distributions, and the Central Limit Theorem (CLT).
 
-### Sampling Techniques
-- Systematic Sampling
-- Stratified Sampling
-- Cluster Sampling
+## Assignments Included
 
-### Standard Error
-- Calculation of Standard Error
-- Effect of Sample Size on Variability
+### DA Session 9 – Sampling and CLT
 
-### Sampling Distribution
-- Mean of Sampling Distribution
-- Standard Deviation of Sampling Distribution
+Topics Covered:
 
-### Central Limit Theorem (CLT)
-- Probability Calculation using CLT
-- Z-Score Calculation
+* Systematic Sampling
+* Stratified Sampling
+* Cluster Sampling
+* Standard Error
+* Sampling Distribution
+* Central Limit Theorem (CLT)
 
-## Files Included
-- `Basics_of_Sampling_and_CLT_Assignment.pdf`
-- `README.md`
+### DA Session 10 – Hypothesis Testing
 
-## Key Learnings
-- Different sampling methods and their applications
-- Importance of standard error in statistics
-- Impact of sample size on variability
-- Construction of sampling distributions
-- Application of the Central Limit Theorem
+Topics Covered:
+
+* One-Tailed Hypothesis Testing
+* Two-Tailed Hypothesis Testing
+* One-Sample t-Test
+* Statistical Decision Making
+* Significance Levels and Critical Values
+
+## Skills Demonstrated
+
+* Statistical Analysis
+* Hypothesis Testing
+* Sampling Techniques
+* Problem Solving
+* Data Interpretation
+
+## Tools Used
+
+* Microsoft Word
+* PDF Documentation
+* GitHub
 
 ## Author
-**Tarun Singh**
 
-Aspiring Data Analyst | SQL | Python | Excel | Power BI
+Tarun Singh
 
-## GitHub Repository
-This repository is part of my Data Analytics learning journey and portfolio development.
+Aspiring Data Analyst
+
+Skills: SQL, Python, Excel, Power BI, Statistics
+
+## Purpose
+
+This repository showcases my practical understanding of statistical concepts and serves as part of my Data Analytics portfolio.
+
